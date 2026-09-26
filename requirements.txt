@@ -6,4 +6,6 @@ sentence-transformers
 torch
 torchvision
 transformers
+python-dotenv
+google-genai
 requests
