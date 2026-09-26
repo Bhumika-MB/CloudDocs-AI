@@ -1,8 +1,32 @@
-venv/
-.venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+.venv/
+venv/
+env/
 
+# Environment variables / secrets
 .env
 .env.*
+
+# Streamlit
 .streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Local data
+*.db
+*.sqlite
+*.sqlite3
