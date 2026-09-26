@@ -1,6 +1,6 @@
 streamlit
 pypdf
-python-dotenv
-google-generativeai
-faiss-cpu
+sentence-transformers
+torch
 numpy
+scikit-learn
